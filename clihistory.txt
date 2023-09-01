@@ -1,0 +1,16 @@
+   26  ls
+   27  cd CISC3115_Haseeb
+   28  mkdir assignment1
+   29  ls
+   30  mkdir javacode
+   31  ls
+   32  cd javacode
+   33  vi javaprogram.txt
+   34  ls
+   35  cd ..
+   36  pwd
+   37  cd /Users/haseebulhaqmalik/Desktop/CISC3115/CISC3115_Haseeb/javacode
+   38  cd ..
+   39  cd javacode
+   40  cd ..
+   41  ls
